@@ -1,0 +1,55 @@
+   body {
+        font-size: 30px;
+        font-family: cursive;
+        background-size: cover;
+        background-image: image-set("/Users/sanchita/Downloads/Sanchita Photo.jpg")
+    }
+
+    h2 {
+        color: rgb(221, 255, 134);
+        margin-left: 30px;
+        font-size: 40px;
+    }
+
+    h3 {
+        margin-left: 30px;
+        color: rgb(246, 198, 255);
+    }
+
+    div li {
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 400;
+        color: rgb(173, 255, 237);
+        margin-left: 10px;
+        margin-top: 8.5px;
+    }
+
+
+    ins {
+        font-weight: bolder;
+        margin-left: 40px;
+        color: rgb(216, 231, 89);
+        font-size: 40px;
+        font-family: cursive;
+    }
+
+    p {
+        font-weight: 900;
+        margin-left: 50px;
+        font-style: italic;
+        color: rgb(14, 14, 15);
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    li {
+        margin-top: 0.05px;
+        margin-left: 10px;
+        font-family: 'Times New Roman', Times, serif;
+        color: rgb(173, 255, 237);
+    }
+
+    h4 {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: rgb(255, 181, 218);
+        margin-left: 40px;
+    }
